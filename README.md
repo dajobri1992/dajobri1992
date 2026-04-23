@@ -75,8 +75,8 @@ Credito: [Ing.David_Brioso](https://github.com/Ing.DavidBrioso)
 
 Last Edited on: 24/04/2026
 
-## 💻Proyectos destacados.
-<b>Descripción: </b>
+## 💻Proyectos destacados con KODIGO.
+<b> Descripción: </b>
 En CETY Sistemas, actualmente el registro de reparaciones se realiza de manera manual. Un encargado debe de llevar una bitácora de cada equipo que llega a reparación, registrando los datos en hojas de papel.
 
 ## Solución, utilizando N8N.
