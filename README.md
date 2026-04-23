@@ -86,10 +86,11 @@ La implementación de un sistema automatizado permitirá:
 
 ------
 
-# 📲Contacto
+# 📲Contacto Brioso Technology
 
-### email: david.brioso.granados@clases.edu.sv ✉
+### email: dajobri2012@gmail.com ✉
 ### WhatsApp +503 70276268 📲
+https://www.linkedin.com/in/david-brios-o-3b3470405/
 
 
 Credito: [Ing.David_Brioso](https://github.com/Ing.DavidBrioso)
