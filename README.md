@@ -84,7 +84,7 @@ La implementación de un sistema automatizado permitirá:
 * Registrar las reparaciones en tiempo real, incluso llevar una bitácora de cada equipo.
 * Reducir el tiempo y esfuerzo dedicados a la digitación de datos.
 * Minimizar errores humanos y asegurar información confiable.
-* Mejorar la planificación de reparaciones y asignación de técnicos al contar con datos disponibles al instante.
+* Mejorar la planificación de reparaciones y asignación de técnicos al contar con datos disponibles al instante. <br>
 <img width="1688" height="441" alt="WhatsApp Image 2026-04-18 at 19 55 53" src="https://github.com/user-attachments/assets/f2a4743e-8dbd-447e-984a-25456ea5afdc" /><br>
 
 
