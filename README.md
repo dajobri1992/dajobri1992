@@ -72,5 +72,17 @@ Credito: [Ing.David_Brioso](https://github.com/Ing.DavidBrioso)
 
 Last Edited on: 24/04/2026
 
+## 💻Proyectos destacados.
+<b>Descripción: </b>
+En CETY Sistemas, actualmente el registro de reparaciones se realiza de manera manual. Un encargado debe de llevar una bitácora de cada equipo que llega a reparación, registrando los datos en hojas de papel.
+
+## Solución, utilizando N8N.
+La implementación de un sistema automatizado permitirá:
+* Registrar las reparaciones en tiempo real, incluso llevar una bitácora de cada equipo.
+* Reducir el tiempo y esfuerzo dedicados a la digitación de datos.
+* Minimizar errores humanos y asegurar información confiable.
+* Mejorar la planificación de reparaciones y asignación de técnicos al contar con datos disponibles al instante.
+<img width="1688" height="441" alt="WhatsApp Image 2026-04-18 at 19 55 53" src="https://github.com/user-attachments/assets/f2a4743e-8dbd-447e-984a-25456ea5afdc" />
+
 
 <img width="1688" height="441" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" />
