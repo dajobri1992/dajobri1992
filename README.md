@@ -65,6 +65,6 @@ Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y tru
 
 ------
 
-Credit: [Ing.DavidBrioso](https://github.com/Ing.DavidBrioso)
+Credito: [Ing.David_Brioso](https://github.com/Ing.DavidBrioso)
 
 Last Edited on: 24/04/2026
