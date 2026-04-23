@@ -59,7 +59,8 @@ Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y tru
 <a href="https://t.me/Ing.davidbrioso"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 <a href="https://github.com/Ingdavidbrioso"><img alt="Github" title="Ing. David Brioso Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://www.snapchat.com/add/brioso_92"><img alt="Ing.David Brioso Snapchat" title="Ing. David Brioso" src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white"></a>
-  <a href="https://facebook.com/davidbrioso"><img alt="Facebook" title="Ing.David Brioso FB" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="https://facebook.com/davidbrioso"><img alt="Facebook" title="Ing.David Brioso FB" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="https://www.cloudskillsboost.google/public_profiles/7d84e454-3e99-4e55-95bf-5888926e1a5e"><img alt="Qwiklabs" title="Ing. David Brioso" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
 </a>
 </div>
 
