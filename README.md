@@ -66,15 +66,6 @@ Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y tru
 </a>
 </div>
 
-
-<h6 align="center">👇🏻 Aquí tenéis una lista de los proyectos de código abierto de GITHUB: 👇🏻</h6>
-
-------
-
-Credito: [Ing.David_Brioso](https://github.com/Ing.DavidBrioso)
-
-Last Edited on: 24/04/2026
-
 ## 💻Proyectos destacados con KODIGO.
 <b> Descripción: </b>
 En CETY Sistemas, actualmente el registro de reparaciones se realiza de manera manual. Un encargado debe de llevar una bitácora de cada equipo que llega a reparación, registrando los datos en hojas de papel.
@@ -90,3 +81,11 @@ La implementación de un sistema automatizado permitirá:
 
 
 <img width="1688" height="441" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" />
+
+<h6 align="center">👇🏻 Aquí tenéis una lista de los proyectos de código abierto de GITHUB: 👇🏻</h6>
+
+------
+
+Credito: [Ing.David_Brioso](https://github.com/Ing.DavidBrioso)
+
+Last Edited on: 24/04/2026
