@@ -1,4 +1,4 @@
-<img width="1688" height="441" alt="Gemini_Generated_Image_ubc2qkubc2qkubc2" src="[https://github.com/user-attachments/assets/1657dd2e-85e1-41ec-b72d-6b56160ad214](https://github.com/dajobri1992/dajobri1992/blob/main/man-using-laptop-night-top-view-web-banner-with-copy-space.jpg?raw=true)" />
+<img width="1688" height="441" src="[https://github.com/user-attachments/assets/1657dd2e-85e1-41ec-b72d-6b56160ad214](https://github.com/dajobri1992/dajobri1992/blob/main/man-using-laptop-night-top-view-web-banner-with-copy-space.jpg?raw=true)"/>
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>¡Hola! soy David Brioso 😎 Bienvenidos🏠 </h2>
 
