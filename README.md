@@ -57,6 +57,7 @@ Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y tru
 <a href="david.brioso.granados@clases.edu.sv"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/Ing.davidbrioso/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://t.me/Ing.davidbrioso"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+<a href="https://github.com/Ingdavidbrioso"><img alt="Github" title="Ing. David Brioso Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </a>
 </div>
 
